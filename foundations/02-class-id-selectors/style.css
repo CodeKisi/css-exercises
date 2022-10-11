@@ -1,0 +1,20 @@
+* {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.not-cool {
+    background-color: pink;
+}
+.cool {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#three {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
