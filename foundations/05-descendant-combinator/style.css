@@ -1,0 +1,9 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+    font-size: 20px;
+    color: red;
+    background-color: yellow;
+    text-align: center;
+}
