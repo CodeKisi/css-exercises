@@ -1,0 +1,21 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+div {
+    font-size: 30px;
+    font-weight: 800;
+    color: white;
+    background-color: red;
+}
+p {
+    color: white;
+    background-color: greenyellow;
+}
+
+button {
+    font-weight: 500;
+    font-size: 15px;
+    color: black;
+    background-color: orange;
+}
